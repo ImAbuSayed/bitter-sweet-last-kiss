@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bitter-sweet-last-kiss/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Bitter Sweet Last Kiss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bitter-sweet-last-kiss/) |
+| **Get License** | [Request Licensing for Bitter Sweet Last Kiss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bitter-sweet-last-kiss/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pour a little danger in my glass tonight
+> Shadows pulling closer as we cross the line
+> Tangled up together in the fading light
+> I just want your body pressing into mine
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
